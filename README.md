@@ -18,7 +18,6 @@
 ---
 
 - Download or clone the repository
-- Go to the directory
 - Open Javascript Game folder
 - Open index.html with live server by right clicking on the mouse cursor
 
